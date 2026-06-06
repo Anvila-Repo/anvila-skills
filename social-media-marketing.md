@@ -1,6 +1,9 @@
 ---
 name: Social Media Marketing
-description: "Build and execute a social media marketing strategy for a solopreneur business. Use when choosing platforms, creating a posting strategy, growing followers,..."
+...
+description: Build and execute a social media marketing strategy for a solopreneur business. Use
+  when choosing platforms, creating a posting strategy, growing followers,...
+...
 ---
 
 Before installing anything, inspect the skill metadata and setup requirements.
